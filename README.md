@@ -152,22 +152,21 @@ function enviarPreferencias() {
   <!-- Puedes renombrarlos o mantener los nombres actuales -->
 
   <!-- 16 imágenes convertidas -->
-  <img src="imagenes/caja-pagina-1.jpg" class="caja-img" alt="Caja página 1">
-  <img src="imagenes/caja-pagina-2.jpg" class="caja-img" alt="Caja página 2">
-  <img src="imagenes/caja-pagina-3.jpg" class="caja-img" alt="Caja página 3">
-  <img src="imagenes/caja-pagina-4.jpg" class="caja-img" alt="Caja página 4">
-  <img src="imagenes/caja-pagina-5.jpg" class="caja-img" alt="Caja página 5">
-  <img src="imagenes/caja-pagina-6.jpg" class="caja-img" alt="Caja página 6">
-  <img src="imagenes/caja-pagina-7.jpg" class="caja-img" alt="Caja página 7">
-  <img src="imagenes/caja-pagina-8.jpg" class="caja-img" alt="Caja página 8">
-  <img src="imagenes/caja-pagina-9.jpg" class="caja-img" alt="Caja página 9">
-  <img src="imagenes/caja-pagina-10.jpg" class="caja-img" alt="Caja página 10">
-  <img src="imagenes/caja-pagina-11.jpg" class="caja-img" alt="Caja página 11">
-  <img src="imagenes/caja-pagina-12.jpg" class="caja-img" alt="Caja página 12">
-  <img src="imagenes/caja-pagina-13.jpg" class="caja-img" alt="Caja página 13">
-  <img src="imagenes/caja-pagina-14.jpg" class="caja-img" alt="Caja página 14">
-  <img src="imagenes/caja-pagina-15.jpg" class="caja-img" alt="Caja página 15">
-  <img src="imagenes/caja-pagina-16.jpg" class="caja-img" alt="Caja página 16">
+  <img src="![caja viajes y cultura](https://github.com/user-attachments/assets/ac774e6c-b76a-43fe-8b0c-a331c132adee)
+" class="caja-img" alt="Caja página 1">
+  <img src="![caja cocina](https://github.com/user-attachments/assets/d3f515d9-9308-43b6-8f2a-8673f5ac526c)
+" class="caja-img" alt="Caja página 2">
+  <img src="![caja cocina 2](https://github.com/user-attachments/assets/bc4ce449-e6b1-4364-a13b-0e764cc55510)
+" class="caja-img" alt="Caja página 3">
+  <img src="![caja ciencia y experimentos](https://github.com/user-attachments/assets/62118c59-57d3-46b8-8d54-1b98252af4db)
+" class="caja-img" alt="Caja página 4">
+  <img src="![caja cuentos y dramatización](https://github.com/user-attachments/assets/f366fa77-7bb5-4337-a984-f7c25fa308b5)
+" class="caja-img" alt="Caja página 5">
+  <img src="![caja animales](https://github.com/user-attachments/assets/751f95e4-32d0-4e9d-b0a6-d62ea2f36a9a)
+" class="caja-img" alt="Caja página 6">
+  <img src="![trabajo en familia](https://github.com/user-attachments/assets/f31799e3-db69-4537-81bd-fe305c1323d3)
+" class="caja-img" alt="Caja página 7">
+  
 
   <div class="suscripcion">
     <h3>🧾 Suscripción disponible</h3>
