@@ -146,6 +146,7 @@ function enviarPreferencias() {
 <section id="materiales">
   <h2>Imágenes de Nuestras Cajas</h2>
 
+
 <img src="![caja cocina](https://github.com/user-attachments/assets/0debfee1-499f-4130-a9d4-70c449720f49)
 " alt="caja cocina">
 <img src="![caja cocina 2](https://github.com/user-attachments/assets/d64865d3-b810-496f-9e25-53b8d3f0fd5c)
@@ -154,7 +155,7 @@ function enviarPreferencias() {
 " alt="caja ciencia y experimentos">
 <img src="![caja cuentos y dramatización](https://github.com/user-attachments/assets/77cb1ca5-939b-4471-aa76-bc2eb3a449a1)
 " alt="caja cuentos y dramatización">
-<img src="![caja animales](https://github.com/user-attachments/assets/ed3282b4-f7fe-480e-bf13-5392e1a45d3a)
+<img src="![caja animales](https://github.com/martamg1616/ikasi_box.com/blob/main/caja%20animales.jpeg)
 " alt="caja animales">
 <img src="![caja viajes y cultura](https://github.com/user-attachments/assets/cef4ff93-7f5a-4222-b51d-f5f9727b9c37)
 " alt="caja viajes y cultura">
