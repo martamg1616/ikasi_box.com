@@ -147,25 +147,24 @@ function enviarPreferencias() {
 <section id="materiales">
   <h2>Imágenes de Nuestras Cajas</h2>
 
-  <!-- Inserción de imágenes desde el PDF -->
-  <!-- Asegúrate de colocar los archivos .jpg en una carpeta llamada "imagenes" -->
-  <!-- Puedes renombrarlos o mantener los nombres actuales -->
+  ikasi/
+├── index.html
+└── imagenes/
+    ├── ![caja viajes y cultura](https://github.com/user-attachments/assets/3eb9bb81-8536-43d0-b48b-7ee34c230eba)
 
-  <!-- 16 imágenes convertidas -->
-  <img src="![caja viajes y cultura](https://github.com/user-attachments/assets/ac774e6c-b76a-43fe-8b0c-a331c132adee)
-" class="caja-img" alt="Caja página 1">
-  <img src="![caja cocina](https://github.com/user-attachments/assets/d3f515d9-9308-43b6-8f2a-8673f5ac526c)
-" class="caja-img" alt="Caja página 2">
-  <img src="![caja cocina 2](https://github.com/user-attachments/assets/bc4ce449-e6b1-4364-a13b-0e764cc55510)
-" class="caja-img" alt="Caja página 3">
-  <img src="![caja ciencia y experimentos](https://github.com/user-attachments/assets/62118c59-57d3-46b8-8d54-1b98252af4db)
-" class="caja-img" alt="Caja página 4">
-  <img src="![caja cuentos y dramatización](https://github.com/user-attachments/assets/f366fa77-7bb5-4337-a984-f7c25fa308b5)
-" class="caja-img" alt="Caja página 5">
-  <img src="![caja animales](https://github.com/user-attachments/assets/751f95e4-32d0-4e9d-b0a6-d62ea2f36a9a)
-" class="caja-img" alt="Caja página 6">
-  <img src="![trabajo en familia](https://github.com/user-attachments/assets/f31799e3-db69-4537-81bd-fe305c1323d3)
-" class="caja-img" alt="Caja página 7">
+    ├── ![caja cocina](https://github.com/user-attachments/assets/cc88c914-3a5c-479e-a505-c529475b6776)
+
+    └── ![caja cocina 2](https://github.com/user-attachments/assets/91276da8-6388-4db9-a3f5-b48de5d4d6bf)
+    
+    └── ![caja ciencia y experimentos](https://github.com/user-attachments/assets/88dbbd16-0d2e-439a-83fb-46f69bd71184)
+    
+    └── ![caja cuentos y dramatización](https://github.com/user-attachments/assets/0d977adb-f161-47a2-ac5a-c6593ae75949)
+
+    └── ![caja animales](https://github.com/user-attachments/assets/94bb15a7-49ca-4070-8a8a-6c2246ebe18d)
+    
+    └── ![trabajo en familia](https://github.com/user-attachments/assets/d7b22bd8-b7de-44d3-a29b-9e43ca95f138)
+
+
   
 
   <div class="suscripcion">
