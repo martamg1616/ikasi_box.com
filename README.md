@@ -148,7 +148,7 @@ function enviarPreferencias() {
 
 ikasi_box/
 ├── index.html
-  ├── https://github.com/martamg1616/ikasi_box.com/blob/main/caja%20cocina.jpeg
+├── https://github.com/martamg1616/ikasi_box.com/blob/main/caja%20cocina.jpeg
 
 
 
