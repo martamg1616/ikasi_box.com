@@ -146,26 +146,14 @@ function enviarPreferencias() {
 <section id="materiales">
   <h2>Imágenes de Nuestras Cajas</h2>
 
-
-<img src="![caja cocina](https://github.com/martamg1616/ikasi_box.com/blob/main/caja%20cocina.jpeg)
-" alt="caja cocina">
-<img src="![caja cocina 2](https://github.com/user-attachments/assets/d64865d3-b810-496f-9e25-53b8d3f0fd5c)
-" alt="caja de cocina 2">
-<img src="![caja ciencia y experimentos](https://github.com/user-attachments/assets/f97881b1-cd51-4959-917b-47443b8c0923)
-" alt="caja ciencia y experimentos">
-<img src="![caja cuentos y dramatización](https://github.com/user-attachments/assets/77cb1ca5-939b-4471-aa76-bc2eb3a449a1)
-" alt="caja cuentos y dramatización">
-<img src="![caja animales](https://github.com/martamg1616/ikasi_box.com/blob/main/caja%20animales.jpeg)
-" alt="caja animales">
-<img src="![caja viajes y cultura](https://github.com/user-attachments/assets/cef4ff93-7f5a-4222-b51d-f5f9727b9c37)
-" alt="caja viajes y cultura">
-<img src="![trabajo en familia](https://github.com/user-attachments/assets/d4c84da0-04d1-4777-bb08-bbdf4bb36f9d)
-" alt="trabajo en familia">
+ikasi_box/
+├── index.html
+  ├── https://github.com/martamg1616/ikasi_box.com/blob/main/caja%20cocina.jpeg
 
 
 
 
-  
+
 
   <div class="suscripcion">
     <h3>🧾 Suscripción disponible</h3>
