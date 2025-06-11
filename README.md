@@ -146,10 +146,20 @@ function enviarPreferencias() {
 <section id="materiales">
   <h2>Imágenes de Nuestras Cajas</h2>
 
-  ikasi/
-├── index.html
-└── imagenes/
-    ├── ![caja viajes y cultura](https://github.com/user-attachments/assets/984da739-636a-4135-9d98-27cbe2fd6263)
+<img src="![caja cocina](https://github.com/user-attachments/assets/0debfee1-499f-4130-a9d4-70c449720f49)
+" alt="caja cocina">
+<img src="![caja cocina 2](https://github.com/user-attachments/assets/d64865d3-b810-496f-9e25-53b8d3f0fd5c)
+" alt="caja de cocina 2">
+<img src="![caja ciencia y experimentos](https://github.com/user-attachments/assets/f97881b1-cd51-4959-917b-47443b8c0923)
+" alt="caja ciencia y experimentos">
+<img src="![caja cuentos y dramatización](https://github.com/user-attachments/assets/77cb1ca5-939b-4471-aa76-bc2eb3a449a1)
+" alt="caja cuentos y dramatización">
+<img src="![caja animales](https://github.com/user-attachments/assets/ed3282b4-f7fe-480e-bf13-5392e1a45d3a)
+" alt="caja animales">
+<img src="![caja viajes y cultura](https://github.com/user-attachments/assets/cef4ff93-7f5a-4222-b51d-f5f9727b9c37)
+" alt="caja viajes y cultura">
+<img src="![trabajo en familia](https://github.com/user-attachments/assets/d4c84da0-04d1-4777-bb08-bbdf4bb36f9d)
+" alt="trabajo en familia">
 
 
 
