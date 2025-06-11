@@ -149,7 +149,8 @@ function enviarPreferencias() {
   ikasi/
 ├── index.html
 └── imagenes/
-    ├── ![caja viajes y cultura.jpeg](https://github.com/user-attachments/assets/e0be4017-09d6-4035-9857-b73c4b9bb209)
+    ├── ![caja viajes y cultura](https://github.com/user-attachments/assets/984da739-636a-4135-9d98-27cbe2fd6263)
+
 
 
 
