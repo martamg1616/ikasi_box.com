@@ -143,6 +143,16 @@ function enviarPreferencias() {
   <p>Cada caja se centra en una temática (como los animales, el cuerpo humano o las estaciones) e incluye juegos, manualidades y retos familiares para fomentar el aprendizaje y la conexión familiar.</p>
 </section>
 
+ikasi_box.com/
+├── index.html
+├── caja cocina.jpg
+├── caja cocina 2.jpg
+├── caja ciencia y experimentos.jpg
+├── caja cuentos y dramatización.jpg
+├── caja animales.jpg
+├── caja viajes y cultura.jpg
+└── trabajo en familia.jpg
+
 <section id="materiales">
   <h2>Imágenes de Nuestras Cajas</h2>
 
