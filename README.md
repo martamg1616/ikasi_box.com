@@ -146,14 +146,13 @@ function enviarPreferencias() {
 <section id="materiales">
   <h2>Imágenes de Nuestras Cajas</h2>
 
-ikasi_box/
-├── index.html
-├── https://github.com/martamg1616/ikasi_box.com/blob/main/caja%20cocina.jpeg
-
-
-
-
-
+  <img src="caja cocina.jpg" alt="Caja Cocina" class="caja-img">
+  <img src="caja cocina 2.jpg" alt="Caja Cocina 2" class="caja-img">
+  <img src="caja ciencia y experimentos.jpg" alt="Caja Ciencia y Experimentos" class="caja-img">
+  <img src="caja cuentos y dramatización.jpg" alt="Caja Cuentos y Dramatización" class="caja-img">
+  <img src="caja animales.jpg" alt="Caja Animales" class="caja-img">
+  <img src="caja viajes y cultura.jpg" alt="Caja Viajes y Cultura" class="caja-img">
+  <img src="trabajo en familia.jpg" alt="Trabajo en Familia" class="caja-img">
 
   <div class="suscripcion">
     <h3>🧾 Suscripción disponible</h3>
@@ -162,6 +161,7 @@ ikasi_box/
     <p>¡Aprender nunca fue tan divertido y accesible!</p>
   </div>
 </section>
+
 
 <section id="objetivos">
   <h2>Objetivos del Proyecto</h2>
