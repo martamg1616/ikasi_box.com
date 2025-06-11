@@ -143,26 +143,17 @@ function enviarPreferencias() {
   <p>Cada caja se centra en una temática (como los animales, el cuerpo humano o las estaciones) e incluye juegos, manualidades y retos familiares para fomentar el aprendizaje y la conexión familiar.</p>
 </section>
 
-ikasi_box.com/
-├── index.html
-├── caja cocina.jpg
-├── caja cocina 2.jpg
-├── caja ciencia y experimentos.jpg
-├── caja cuentos y dramatización.jpg
-├── caja animales.jpg
-├── caja viajes y cultura.jpg
-└── trabajo en familia.jpg
 
 <section id="materiales">
   <h2>Imágenes de Nuestras Cajas</h2>
 
-  <img src="caja cocina.jpg" alt="Caja Cocina" class="caja-img">
-  <img src="caja cocina 2.jpg" alt="Caja Cocina 2" class="caja-img">
-  <img src="caja ciencia y experimentos.jpg" alt="Caja Ciencia y Experimentos" class="caja-img">
-  <img src="caja cuentos y dramatización.jpg" alt="Caja Cuentos y Dramatización" class="caja-img">
-  <img src="caja animales.jpg" alt="Caja Animales" class="caja-img">
-  <img src="caja viajes y cultura.jpg" alt="Caja Viajes y Cultura" class="caja-img">
-  <img src="trabajo en familia.jpg" alt="Trabajo en Familia" class="caja-img">
+  <img src="caja cocina.jpeg" alt="Caja Cocina" class="caja-img">
+  <img src="caja cocina 2.jpeg" alt="Caja Cocina 2" class="caja-img">
+  <img src="caja ciencia y experimentos.jpeg" alt="Caja Ciencia y Experimentos" class="caja-img">
+  <img src="caja cuentos y dramatización.jpeg" alt="Caja Cuentos y Dramatización" class="caja-img">
+  <img src="caja animales.jpeg" alt="Caja Animales" class="caja-img">
+  <img src="caja viajes y cultura.jpeg" alt="Caja Viajes y Cultura" class="caja-img">
+  <img src="trabajo en familia.jpeg" alt="Trabajo en Familia" class="caja-img">
 
   <div class="suscripcion">
     <h3>🧾 Suscripción disponible</h3>
