@@ -147,7 +147,7 @@ function enviarPreferencias() {
   <h2>Imágenes de Nuestras Cajas</h2>
 
 
-<img src="![caja cocina](https://github.com/user-attachments/assets/0debfee1-499f-4130-a9d4-70c449720f49)
+<img src="![caja cocina](https://github.com/martamg1616/ikasi_box.com/blob/main/caja%20cocina.jpeg)
 " alt="caja cocina">
 <img src="![caja cocina 2](https://github.com/user-attachments/assets/d64865d3-b810-496f-9e25-53b8d3f0fd5c)
 " alt="caja de cocina 2">
